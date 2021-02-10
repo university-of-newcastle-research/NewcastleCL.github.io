@@ -2,6 +2,7 @@ name: "Newcastle Cognition Lab"
 author: "newcastlecognitionlab@gmail.com"
 title: Newcastle Cognition Lab
 description: "Newcastle Cognition Lab site for information about members, publications and software"
+theme: jekyll-theme-cayman
 
 url: "https://newcastlecl.github.io/"
 repo_url: "https://github.com/NewcastleCL/NewcastleCL.github.io"
@@ -17,4 +18,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
