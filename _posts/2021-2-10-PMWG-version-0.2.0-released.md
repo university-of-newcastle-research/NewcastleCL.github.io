@@ -2,9 +2,10 @@
 layout: post
 title: PMWG version 0.2.0 released
 tags: software
+author: Gavin Cooper
 ---
 
-The second CRAN release of the PMWG package is now available for download and includes some new functionality, improvements in the sampling stage and some minor bugfixes. I'll cover the major points in this post, but further details are available in the changelog for the package (https://newcastlecl.github.io/pmwg/news/index.html).
+The second CRAN release of the PMWG package is now available for download and includes some new functionality, improvements in the sampling stage and some minor bug fixes. I'll cover the major points in this post, but further details are available in the changelog for the package (https://newcastlecl.github.io/pmwg/news/index.html).
 
 ## Main improvements
 
@@ -18,7 +19,7 @@ The primary result of this is that if a proposal distribution at the end of the 
 
 There is now a new function, `relabel_samples` that can change the designation of the source stage for samples in the pmwgs object. The purpose of this is to enable the end user to reallocate burn in samples to adaptation samples in the case where sampling is expensive and a subset of the first stage samples are sufficiently burnt in. The samples can be relabelled as adaptation samples using this function, and can then be used to inform the proposal distribution.
 
-The display of the acceptance rate (now labelled **New**) has been updated to show the runnning average of newly accepted particles over the last 200 samples. This means the acceptance rate should be more responsive to the current state of the sampling efficiency.
+The display of the acceptance rate (now labelled **New**) has been updated to show the running average of newly accepted particles over the last 200 samples. This means the acceptance rate should be more responsive to the current state of the sampling efficiency.
 
 Finally, there is a new object included as a data structure with the package, called `sampled_forstmann`. This will allow people unfamiliar with the project to trial running more of the API before adopting the package for their own research, as well as allowing better internal testing of the API going forward.
 
