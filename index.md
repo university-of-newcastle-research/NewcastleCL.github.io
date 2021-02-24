@@ -1,4 +1,7 @@
-# Newcastle Cognition Lab
+---
+layout: default
+title: Newcastle Cognition Lab | Home
+---
 
 ![Our Lab](./media/lab.jpg)
 

@@ -3,9 +3,12 @@ layout: post
 title: PMWG version 0.2.0 released
 tags: [software, pmwg]
 author: Gavin Cooper
+excerpt_separator: <!--more-->
 ---
 
 The second CRAN release of the PMWG package is now available for download and includes some new functionality, improvements in the sampling stage and some minor bug fixes. I'll cover the major points in this post, but further details are available in the [changelog](https://newcastlecl.github.io/pmwg/news/index.html) for the package.
+
+<!--more-->
 
 ## Main improvements
 
