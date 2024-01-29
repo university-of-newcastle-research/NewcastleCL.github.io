@@ -4,15 +4,15 @@ title: Newcastle Cognition Lab
 description: "Newcastle Cognition Lab site for information about members, publications and software"
 theme: jekyll-theme-cayman
 
-url: "https://newcastlecl.github.io/"
-repo_url: "https://github.com/NewcastleCL/NewcastleCL.github.io"
+url: "https://university-of-newcastle-research.github.io/NewcastleCL.github.io/"
+repo_url: "https://github.com/university-of-newcastle-research/NewcastleCL.github.io"
 
 # Twitter username (used by jekyll-seo-tag)
 twitter:
   username: NewcastleCogLab
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
-repository: NewcastleCL/NewcastleCL.github.io
+repository: university-of-newcastle-research/NewcastleCL.github.io
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag

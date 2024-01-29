@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Site live at: https://university-of-newcastle-research.github.io/NewcastleCL.github.io/
+
 You can use the [editor on GitHub](https://github.com/NewcastleCL/NewcastleCL.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
