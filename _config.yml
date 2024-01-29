@@ -4,7 +4,8 @@ title: Newcastle Cognition Lab
 description: "Newcastle Cognition Lab site for information about members, publications and software"
 theme: jekyll-theme-cayman
 
-url: "https://university-of-newcastle-research.github.io/NewcastleCL.github.io/"
+url: "https://university-of-newcastle-research.github.io"
+baseurl: "/NewcastleCL.github.io/"
 repo_url: "https://github.com/university-of-newcastle-research/NewcastleCL.github.io"
 
 # Twitter username (used by jekyll-seo-tag)
